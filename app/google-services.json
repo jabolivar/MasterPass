@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1034215387727",
+    "firebase_url": "https://masterpass-1359.firebaseio.com",
+    "project_id": "masterpass-1359",
+    "storage_bucket": "masterpass-1359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034215387727:android:39e5d02663154185",
+        "android_client_info": {
+          "package_name": "co.oneware.masterpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034215387727-nh2ad0nab76nlue59l2tkff4iujbpe34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.oneware.masterpass",
+            "certificate_hash": "4dc73eefea3332050c612c6bb2a6c3cb12df98a5"
+          }
+        },
+        {
+          "client_id": "1034215387727-2ltsht8iumr4b6ianvd9d5876jt2pl95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfJCm-v5AiYMti7C_nmFoCr49SBBqOVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034215387727-2ltsht8iumr4b6ianvd9d5876jt2pl95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
