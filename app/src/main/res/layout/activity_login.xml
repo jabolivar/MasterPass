@@ -43,7 +43,7 @@
                     android:inputType="textEmailAddress"
                     android:maxLines="1"
                     android:singleLine="true"
-                    android:text="info@oneware.co" />
+                    android:text="noreply@oneware.co" />
 
             </android.support.design.widget.TextInputLayout>
 
@@ -62,7 +62,7 @@
                     android:inputType="textPassword"
                     android:maxLines="1"
                     android:singleLine="true"
-                    android:text="info1" />
+                    android:text="juan87" />
 
             </android.support.design.widget.TextInputLayout>
 
